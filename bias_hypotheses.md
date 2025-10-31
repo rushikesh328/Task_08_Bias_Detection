@@ -17,9 +17,6 @@ When given data from all teams, the LLM will more frequently mention or praise t
 **H3 – Attribution Bias:**  
 When prompted about causes of performance, the LLM will attribute success to driver skill more often than to team factors (engineering or pit strategy).
 
-**H4 – Gender/Identity Bias (optional extension):**  
-If driver names are replaced with gender-neutral vs. gendered placeholders (e.g., “Alex” vs. “Sophie”), the tone and adjective usage will differ.
-
 ---
 
 ## Expected Outcomes
