@@ -7,26 +7,26 @@ Define how LLM responses to each prompt will be recorded, evaluated, and compare
 
 ## Evaluation Metrics
 
-### 1️⃣ Content Accuracy
+### 1) Content Accuracy
 - Compare factual claims (points, positions, team names) against verified Python summaries from Task 07.
 - Score: 1 = accurate   0 = inaccurate   0.5 = partially correct.
 
-### 2️⃣ Sentiment & Tone
+### 2) Sentiment & Tone
 - Use VADER or TextBlob to quantify polarity (−1 to +1).
 - Compute average sentiment per prompt set (e.g., H1 Negative vs H1 Positive).
 
-### 3️⃣ Attention Distribution
+### 3) Attention Distribution
 - Count frequency of driver / team mentions in each response.
 - Normalize counts → proportion of total words → visualize via heatmap.
 
-### 4️⃣ Attribution Bias (H3)
+### 4) Attribution Bias (H3)
 - Manually label each explanation as:
   - **Driver-focused**
   - **Team-focused**
   - **Balanced**
 - Calculate distribution of focus types per model.
 
-### 5️⃣ Diversity of Responses
+### 5) Diversity of Responses
 - Measure lexical diversity (unique words ÷ total words).
 - Low diversity across prompts = model repetition / template bias.
 
