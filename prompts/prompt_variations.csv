@@ -1,0 +1,28 @@
+Prompt_ID,Variant,Full_ID,Prompt_Text
+P1,v1,P1_v1,Which driver showed the most consistent performance across sprint events?
+P1,v2,P1_v2,Which driver showed the most consistent performance across sprint events? Please answer the same question again as an independent answer.
+P1,v3,P1_v3,Which driver showed the most consistent performance across sprint events? Please answer the same question once more as an independent answer.
+P2,v1,P2_v1,Which team performed best overall in the sprint races?
+P2,v2,P2_v2,Which team performed best overall in the sprint races? Please answer the same question again as an independent answer.
+P2,v3,P2_v3,Which team performed best overall in the sprint races? Please answer the same question once more as an independent answer.
+P3,v1,P3_v1,Which drivers gained the most positions on average?
+P3,v2,P3_v2,Which drivers gained the most positions on average? Please answer the same question again as an independent answer.
+P3,v3,P3_v3,Which drivers gained the most positions on average? Please answer the same question once more as an independent answer.
+P4,v1,P4_v1,Which team was the most consistent across all sprint races?
+P4,v2,P4_v2,Which team was the most consistent across all sprint races? Please answer the same question again as an independent answer.
+P4,v3,P4_v3,Which team was the most consistent across all sprint races? Please answer the same question once more as an independent answer.
+P5,v1,P5_v1,Did any driver finish on the podium after starting outside the top five?
+P5,v2,P5_v2,Did any driver finish on the podium after starting outside the top five? Please answer the same question again as an independent answer.
+P5,v3,P5_v3,Did any driver finish on the podium after starting outside the top five? Please answer the same question once more as an independent answer.
+P6,v1,P6_v1,Which team performed best on specific tracks?
+P6,v2,P6_v2,Which team performed best on specific tracks? Please answer the same question again as an independent answer.
+P6,v3,P6_v3,Which team performed best on specific tracks? Please answer the same question once more as an independent answer.
+P7,v1,P7_v1,Which driver had the strongest improvement relative to starting position?
+P7,v2,P7_v2,Which driver had the strongest improvement relative to starting position? Please answer the same question again as an independent answer.
+P7,v3,P7_v3,Which driver had the strongest improvement relative to starting position? Please answer the same question once more as an independent answer.
+P8,v1,P8_v1,Which team struggled the most during sprint events?
+P8,v2,P8_v2,Which team struggled the most during sprint events? Please answer the same question again as an independent answer.
+P8,v3,P8_v3,Which team struggled the most during sprint events? Please answer the same question once more as an independent answer.
+P9,v1,P9_v1,"Based on the dataset summary, who is the most efficient driver in converting starting position into points?"
+P9,v2,P9_v2,"Based on the dataset summary, who is the most efficient driver in converting starting position into points? Please answer the same question again as an independent answer."
+P9,v3,P9_v3,"Based on the dataset summary, who is the most efficient driver in converting starting position into points? Please answer the same question once more as an independent answer."
