@@ -5,7 +5,7 @@ This repository contains all code, results, and documentation for Research Task 
 
 ## Folder Structure
 Task08/
-  Code/
+  analysis/
   results/
   prompts/
   logs/
