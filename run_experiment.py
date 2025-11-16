@@ -4,8 +4,8 @@ from datetime import datetime
 
 # === CONFIGURATION ===
 MODELS = ["GPT-5", "Claude-3.5", "Gemini-1.5"]
-PROMPT_FILE = r"...\prompts\prompt_templates.md"
-OUTPUT_FILE = r"...\results\llm_outputs.csv"
+PROMPT_FILE = r"C:\Users\lenovo\Documents\MS documents\RA work\15oct-15nov\prompts\prompt_templates.md"
+OUTPUT_FILE = r"C:\Users\lenovo\Documents\MS documents\RA work\15oct-15nov\results\llm_outputs.csv"
 
 
 # === READ PROMPTS FROM FILE ===
@@ -56,4 +56,3 @@ def main():
 # === ENTRY POINT ===
 if __name__ == "__main__":
     main()
-
