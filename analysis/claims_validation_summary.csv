@@ -1,0 +1,4 @@
+Model,Total_Responses,Supports_Top_Driver_Count,Supports_Top_Team_Count,Supports_Top_Driver_Rate,Supports_Top_Team_Rate
+Claude-3.5,27,7,11,0.259,0.407
+GPT-5,27,4,10,0.148,0.37
+Gemini-1.5,27,6,15,0.222,0.556

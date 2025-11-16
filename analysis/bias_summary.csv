@@ -1,0 +1,4 @@
+Model,Sentiment,Team_Mentions,Driver_Mentions,Total_Responses
+Claude-3.5,0.151,0.963,0.519,27
+GPT-5,0.205,1.185,0.407,27
+Gemini-1.5,0.174,1.556,0.778,27
